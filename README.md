@@ -4,6 +4,8 @@
 * Javascript
 
 ## How To Run
+* Clone this repo
+* `npm i` to install node modules
 * To open Cypress and run the tests on the UI use: `npx cypress run`
 * To run the tests within the terminal use: `npx cypress run --spec "cypress/e2e/my-spec.cy.js"`
 
